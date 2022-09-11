@@ -20,7 +20,7 @@ The codebase has been updated with the following changes:
 
 - Using the navigation bar, located on the top right of the webpage, clicking any of the sections will direct the user to the corrosponding section of the webpage
 
-!(./Assets/refactor-screenshot.jpg)
+!(Assets/Horiseon-refactured.png)
 
 ## License
 
