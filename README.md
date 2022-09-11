@@ -1,4 +1,4 @@
-# Horiseon Marketing Agency
+# Horiseon Marketing Agency: Refactoring WebPage Code using HTML, CSS, and GIT
 
 ## Overview
 
