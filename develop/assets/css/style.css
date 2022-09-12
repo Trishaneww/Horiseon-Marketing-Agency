@@ -1,4 +1,4 @@
-/* -----------------------------------Global------------------------------------- */
+/* -----------------------------------Global (all are type selectors)------------------------------------- */
 /*universal selector*/
 * {
     box-sizing: border-box;
@@ -45,7 +45,7 @@ p {
 img {
     max-height: 200px;
 }
-/*--------------------------------header/navigation----------------------------------*/
+/*------------------------------------------header/navigation----------------------------------------------*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,7 +68,7 @@ nav ul li {
     margin-left: 25px;
 }
 
-/*This formats the image below the navigation section and above the main content*/
+/*This class formats the image below the navigation section and above the main content*/
 .hero {
     height: 1220px;
     width: 100%;
@@ -77,8 +77,8 @@ nav ul li {
     background-size: cover;
     background-position: center;
 }
-/*--------------------------------------main content-------------------------------------*/
-/*This will either move the given image left or right*/
+/*---------------------------------------------main content----------------------------------------------*/
+/*These two classes will either move the given image left or right*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -89,7 +89,7 @@ nav ul li {
     margin-left: 25px;
 }
 
-/*This styles and formats all the html code within the benefits-container class 
+/*This class styles and formats all the html code within the benefits-container class 
 (styles the background color, font style, width, height, positioning, spacing and margins*/
 .benefits-container {
     margin-right: 20px;
@@ -119,7 +119,7 @@ nav ul li {
     display: inline-block;
     margin-left: 20px;
 }
-/*Formats the box background color, spacing, margins and font style. Ensures they do not overlap*/
+/*this class formats the box background color, spacing, margins and font style. Ensures they do not overlap*/
 .box-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,8 +128,8 @@ nav ul li {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*-------------------------------------footer-------------------------------------*/
-/*Creates a footer, centered on the bottom of the webpage*/
+/*--------------------------------------------footer---------------------------------------------*/
+/*This type selector creates the footers format, centered on the bottom of the webpage*/
 footer {
     padding: 30px;
     clear: both;
