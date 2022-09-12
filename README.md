@@ -27,6 +27,7 @@ Link to the working website: [Github Pages](https://trishaneww.github.io/horiseo
 ## Credits
 
 Trishane Wijeyawickrema
+
 Link to [Github Repository](https://github.com/Trishaneww/horiseon-marketing-agency)
 
 ## License
